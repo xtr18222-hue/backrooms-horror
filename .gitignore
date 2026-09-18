@@ -1,0 +1,17 @@
+# OS / editor junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
+
+# Node (not needed — no build step — but harmless)
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Local test scratch
+*_test*.js
+*btest*.js
